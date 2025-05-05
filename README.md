@@ -7,7 +7,7 @@
 -           + Genetic Engineering
 -           + CASP
 -           + Neuroscience
--           + 
+- 
 -         2. Computers
 -             + AI
 -             + Python
@@ -32,7 +32,7 @@
 -             + Comedy
 -             + Fresh Food/Cheese/Wine/Beer/Cocktails/Crafts
 -             + Shakespeare in the Park
--             + 
+- 
 -         6. Movies/Shows/Books
 -             + Period Pieces
 -             + Comedy
